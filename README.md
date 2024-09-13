@@ -1,12 +1,12 @@
 # DPA-GNN
-Requirements
+# Requirements
 numpy >= 1.23.0
 pandas >= 1.4.3
 scikit-learn >= 0.24.1
 python >= 3.8
 
 
-Introduction
+# Introduction
 This project contains 4 folders and 2 files.
 data (folder): The datasets are stored in this folder.
 comm (folder): This folder is used for community determination.
