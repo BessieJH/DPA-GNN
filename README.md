@@ -3,8 +3,6 @@ Requirements
 numpy >= 1.23.0
 pandas >= 1.4.3
 scikit-learn >= 0.24.1
-networkx >= 2.5
-python-louvain >= 0.15
 python >= 3.8
 
 
