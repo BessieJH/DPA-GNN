@@ -2,11 +2,11 @@
 The current code is a demo version; the official version will be released after publication.
 
 # Requirements
-numpy >= 1.23.0  
-pandas >= 1.4.3  
-scikit-learn >= 0.24.1  
 python >= 3.6
 pytorch >= 1.7.1
+numpy >=  1.19.5 
+pandas >= 1.1.5  
+scikit-learn >= 0.24.1 
 
 
 # Introduction
