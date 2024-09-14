@@ -3,7 +3,7 @@ The current code is a demo version; the official version will be released after 
 
 # Requirements
 python >= 3.6  
-pytorch >= 1.7.1  
+pytorch >= 1.7.0  
 numpy >=  1.19.5   
 pandas >= 1.1.5    
 scikit-learn >= 0.24.1   
