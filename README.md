@@ -1,4 +1,5 @@
 # DPA-GNN
+The current code is a demo version; the official version will be released after publication.
 
 # Requirements
 numpy >= 1.23.0  
