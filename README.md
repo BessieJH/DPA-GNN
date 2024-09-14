@@ -5,7 +5,7 @@ The current code is a demo version; the official version will be released after 
 numpy >= 1.23.0  
 pandas >= 1.4.3  
 scikit-learn >= 0.24.1  
-python >= 3.8  
+python >= 3.6  
 
 
 # Introduction
