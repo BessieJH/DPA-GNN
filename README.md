@@ -10,9 +10,9 @@ python >= 3.8
 # Introduction
 This project contains 1 folders and 4 files.      
 data (folder): The datasets are stored in this folder.    
-main(file): The file is used to obtain the results of proposed method.  
-utils1.py (file): The file includes the functions that are needed for other files.  
-main(file): The file is used to obtain the results of proposed method.  
-utils1.py (file): The file includes the functions that are needed for other files.  
+main(file): The file is used for parameter tuning and running the program.  
+utils.py (file): The file includes Data Collection (DC), Share Construction (SC), Secret Aggregation (SA), Secret Reconstruction (SR) modules. 
+model(file): The file is used to set weights or MLP.  
+layer.py (file): The file is used to set the number of layers in the MLP (Multi-Layer Perceptron). 
 
 
